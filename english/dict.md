@@ -17,8 +17,6 @@
 |  Architecture      |[ˈɑːkɪtektʃə(r)]   |   Архитектура|
 |  Array      |[əˈreɪ]   |   Массив|
 |  Artificial      |[ˌɑːtɪˈfɪʃəl]   |   Искусственный|
-|  Assembly              | [əˈsem.bli]                        | ассемблер                   |
-|  Assertion             | [əˈsɜːr.ʃən]                       | утверждение                 |
 |  Asymptote             | [ˈæs.ɪmp.təʊt]                     | асимптота                  |
 |  Asynchronous      |[ˌeɪˈsɪŋ.krə.nəs]   |   Асинхронный|
 |  Attention  |   [əˈten.ʃən]  |   Внимание  |
@@ -37,7 +35,6 @@
 |  Bitmask               | [ˈbɪt.mɑːsk]                       | битовая маска               |
 |  Blockchain      |[ˈblɒk.tʃeɪn]   |   Блокчейн|
 |  Boolean      |[ˈbuː.li.ən]   |   Булевый|
-|  Bootstrap  |   [ˈbuːt.stræp]  |   Бутстрап  |
 |  Bottleneck      |[ˈbɒt.əl.nek]   |   Узкое место|
 |  Branch      |[brɑːntʃ]   |   Ветвь|
 |  Breakpoint      |[ˈbreɪk.pɔɪnt]   |   Точка останова|
@@ -51,8 +48,6 @@
 |  Cache      |[kæʃ]   |   Кэш|
 |  Calibration      |[ˌkæl.ɪˈbreɪ.ʃən]   |   Калибровка|
 |  Callback      |[ˈkɔːl.bæk]   |   Колбэк (обратный вызов)|
-|  Cardinality      |[ˌkɑː.dɪˈnæl.ɪ.ti]   |   Мощность множества / Кардинальность|
-|  Cartesian      |[kɑːˈtiː.zi.ən]   |   Декартов|
 |  Centroid      |[ˈsen.trɔɪd]   |   Центроид|
 |  Chain      |[tʃeɪn]   |   Цепь (напр. в chain rule)|
 |  Channel      |[ˈtʃæn.əl]   |   Канал|
@@ -175,7 +170,6 @@
 |  Hidden      |[ˈhɪd.ən]   |   Скрытый (слой и т. д.)|
 |  High level      |[haɪ ˈlev.əl]   |   Высокоуровневый|
 |  Histogram      |[ˈhɪs.tə.ɡræm]   |   Гистограмма|
-|  Holistic      |[həˈlɪs.tɪk]   |   Целостный|
 |  Homogeneity           | [ˌhɒm.əˈdʒiː.nə.ti]                | однородность                |
 |  Homomorphic      |[ˌhəʊ.məˈmɔː.fɪk]   |   Гомоморфный (напр. шифрование)|
 |  Hook      |[hʊk]   |   Хук (функция перехватчик)|
@@ -209,11 +203,8 @@
 |  Iteration             | [ˌɪt.əˈreɪ.ʃən]                    | итерация                    |
 |  Jitter      |[ˈdʒɪt.ər]   |   Джиттер (изменение сигнала)|
 |  Job      |[dʒɒb]   |   Задача (задание)|
-|  Join      |[dʒɔɪn]   |   Операция соединения (SQL)|
-|  Joint      |[dʒɔɪnt]   |   Совместный (напр. распределение)|
-|  Joystick      |[ˈdʒɔɪ.stɪk]   |   Джойстик (менее ML, но ок)|
+|  Join      |[dʒɔɪn]   |   Операция соединения (SQL)/ соединять|
 |  Kernel      |[ˈkɜː.nəl]   |   Ядро|
-|  Kernelization         | [ˌkɜː.nəl.aɪˈzeɪ.ʃən]              | кернилизация                |
 |  Key      |[kiː]   |   Ключ|
 |  Keyframe      |[ˈkiː.freɪm]   |   Ключевой кадр|
 |  Keypair      |[ˈkiː.peər]   |   Пара ключей|
@@ -230,14 +221,12 @@
 |  Latent      |[ˈleɪ.tənt]   |   Скрытый (латентный)|
 |  Layer      |[ˈleɪ.ər]   |   Слой|
 |  Learning      |[ˈlɜː.nɪŋ]   |   Обучение|
-|  Ledger      |[ˈledʒ.ər]   |   Реестр|
 |  Lexical      |[ˈlek.sɪ.kəl]   |   Лексический|
 |  Lexicographic         | [ˌlek.sɪˈkɒɡ.rə.fɪk]               | лексикографический          |
 |  Library      |[ˈlaɪ.brər.i]   |   Библиотека|
 |  Linear      |[ˈlɪn.i.ər]   |   Линейный|
 |  Link      |[ˈlɪŋ.kər]   |   ссылка |
 |  List      |[lɪst]   |   Список|
-|  Liveness              | [ˈlaɪv.nəs]                       | живость                     |
 |  Loader      |[ˈləʊ.dər]   |   Загрузчик|
 |  Local      |[ˈləʊ.kəl]   |   Локальный|
 |  Localization          | [ləʊ.kəl.aɪˈzeɪ.ʃən]               | локализация                 |
@@ -245,7 +234,7 @@
 |  Logic      |[ˈlɒdʒ.ɪk]   |   Логика|
 |  Logistic      |[ləˈdʒɪs.tɪk]   |   Логистический (напр. регрессия)|
 |  Loop      |[luːp]   |   Цикл|
-|  Loss      |[lɒs]   |   Функция потерь|
+|  Loss      |[lɒs]   |   Функция потерь/ потеря|
 |  Machine      |[məˈʃiːn]   |   Машина (Machine Learning)|
 |  Macro      |[ˈmæk.rəʊ]   |   Макрос|
 |  Maintain        | [meɪnˈteɪn]    | поддерживать        |
@@ -253,7 +242,6 @@
 |  Manipulate      |[məˈnɪp.jʊ.leɪt]   |   Манипулировать|
 |  Map      |[mæp]   |   Отображение / Карта|
 |  Mapping      |[ˈmæp.ɪŋ]   |   Отображение|
-|  Margin      |[ˈmɑː.dʒɪn]   |   Поле / Запас (в ML: margin of classifier) / отступ|
 |  Math	|  [mæθ]  |	математика |
 |  Mathematician  | 	[ˌmæθ.əˈmæt.ɪʃ.ən] |	математик |
 |  Matrix      |[ˈmeɪ.trɪks]   |   Матрица|
@@ -309,7 +297,6 @@
 |  Optimization      |[ˌɒp.tɪ.maɪˈzeɪ.ʃən]   |   Оптимизация|
 |  Optimizer  |   [ˈɒp.tɪ.maɪ.zər]  |   Оптимизатор  |
 |  Orchestration      |[ˌɔːkɪˈstreɪ.ʃən]   |   Оркестрация|
-|  Ordinal      |[ˈɔː.dɪ.nəl]   |   Порядковый|
 |  Orthogonal      |[ɔːˈθɒɡ.ən.əl]   |   Ортогональный|
 |  Overfit      |[ˌəʊ.vəˈfɪt]   |   Переобучаться (в ML)|
 |  Overflow      |[ˈəʊ.və.fləʊ]   |   Переполнение|
@@ -367,12 +354,10 @@
 |  Recursion  |   [rɪˈkɜː.ʃən]  |   Рекурсия  |
 |  Refactoring  |   [ˌriːˈfæk.tər.ɪŋ]  |   Рефакторинг  |
 |  Reference      |[ˈref.ər.əns]   |   Ссылка|
-|  Refinement            | [rɪˈfaɪn.mənt]                    | усовершенствование          |
+|  Refinement            | [rɪˈfaɪn.mənt]                    | уточненние/усовершенствование  |
 |  Regression  |   [rɪˈɡreʃ.ən]  |   Регрессия  |
 |  Regularization  |   [ˌreɡ.jʊ.lə.raɪˈzeɪ.ʃən]  |   Регуляризация  |
 |  Reinforcement  |   [ˌriː.ɪnˈfɔːs.mənt]  |   Обучение с подкреплением  |
-|  Relay      |[rɪˈleɪ]   |   Реле / Ретрансляция|
-|  Remapping             | [riːˈmæp.ɪŋ]                     | переназначение              |
 |  Reparameterization  |   [ˌriː.pəˌræm.ɪ.tə.raɪˈzeɪ.ʃən]  |   Репараметризация  |
 |  Repository      |[rɪˈpɒz.ɪ.tər.i]   |   Репозиторий|
 |  Reproduce	|   [ˌriː.prəˈdjuːs]	|    воспроизвести          |
@@ -477,7 +462,6 @@
 |  Update  |   [ʌpˈdeɪt]  |   Обновление  |
 |  Upgradation           | [ˌʌp.ɡreɪˈdeɪ.ʃən]                | обновление                 |
 |  Upgrade      |[ʌpˈɡreɪd]   |   Усовершенствовать / Обновить|
-|  Uplink      |[ˈʌp.lɪŋk]   |   Восходящий канал связи|
 |  Upload      |[ʌpˈləʊd]   |   Загрузить (на сервер)|
 |  Usage                 | [ˈjuː.sɪdʒ]                      | использование              |
 |  User      |[ˈjuː.zər]   |   Пользователь|
@@ -520,17 +504,10 @@
 |  Workspace      |[ˈwɜːk.speɪs]   |   Рабочая область|
 |  Wrapper  |   [ˈræp.ər]  |   Оболочка  |
 |  Write      |[raɪt]   |   Записывать|
-|  XQuery                | [ˈɛks.kwɪr.i]                     | XQuery (икс-квери)          |
-|  Yield  |   [jiːld]  |   Выход  |
-|  Yottabit              | [ˈjɒt.ə.bɪt]                     | йоттабит                   |
-|  Yottabyte  |   [ˈjɒt.ə.beɪt]  |   Йоттабайт  |
-|  Yottascale            | [ˈjɒt.ə.skeɪl]                    | йоттаскейл                 |
+|  Yield  |   [jiːld]  |   Выход/генерировать  |
 |  Zero  |   [ˈzɪə.rəʊ]  |   Ноль  |
-|  Zeroing               | [ˈzɪə.rəʊ.ɪŋ]                    | обнуление                  |
-|  Zeta  |   [ˈzeɪ.tə]  |   Зета  |
 |  Zettabyte             | [ˈzet.ə.beɪt]                    | зеттабайт                  |
 |  Zigzag  |   [ˈzɪɡ.zæɡ]  |   Зигзаг  |
-|  Zipping               | [ˈzɪp.ɪŋ]                        | архивирование              |
 |  Zombie      |[ˈzɒm.bi]   |   Зомби процесс (в ОС)|
 |  Zone      |[zəʊn]   |   Зона|
 |  Zoom  |   [zuːm]  |   Зум |
