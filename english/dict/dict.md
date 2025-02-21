@@ -27,7 +27,7 @@
 |  Backtracking          | [ˈbæk.træk.ɪŋ]                     | обратный перебор            |
 |  Bandwidth      |[ˈbænd.wɪtθ]   |   Пропускная способность|
 |  Base      |[beɪs]   |   Основание / База|
-|  Batch      |[bætʃ]   |   Пакет/Батч|
+|  Batch      |[bætʃ]   |   Батч|
 |  Bayesian      |[ˈbeɪ.zi.ən]   |   Байесовский|
 |  Benchmark      |[ˈbentʃ.mɑːrk]   |   Тест производительности / бенчмарк|
 |  Binarization          | [ˌbaɪ.nə.raɪˈzeɪ.ʃən]              | бинаризация                 |
@@ -110,7 +110,7 @@
 |  Encoder  |   [ɪnˈkəʊ.dər]  |   Кодировщик  |
 |  Encoding      |[ɪnˈkəʊ.dɪŋ]   |   Кодирование|
 |  Encryption      |[ɪnˈkrɪp.ʃən]   |   Шифрование|
-|  Endpoint      |[ˈend.pɔɪnt]   |  ручка / Конечная точка (API и т. д.)|
+|  Endpoint      |[ˈend.pɔɪnt]   |  Ручка / Конечная точка (API и т. д.)|
 |  Ensemble  |   [ɒnˈsɒm.bəl]  |   Ансамбль  |
 |  Enumeration      |[ɪˌnjuː.məˈreɪ.ʃən]   |   Перечисление|
 |  Environment      |[ɪnˈvaɪ.rən.mənt]   |   Окружение|
@@ -127,12 +127,11 @@
 |  Extensible      |[ɪkˈsten.sə.bəl]   |   Расширяемый|
 |  Extension   |   [/ɪkˈstenʃn/] | Расширение |
 |  Factorization         | [ˌfæk.tə.raɪˈzeɪ.ʃən]              | факторизация                |
-|  Feature      |[ˈfiː.tʃər]   |   Фича/ Признак (в ML) / Функция продукта|
+|  Feature      |[ˈfiː.tʃər]   |   Фича/ Признак выборки(в ML) |
 |  Fibonacci      |[ˌfiː.bəˈnɑː.tʃi]   |   Фибоначчи|
 |  Field      |[fiːld]   |   Поле|
 |  File      |[faɪl]   |   Файл|
 |  Filter      |[ˈfɪl.tər]   |   Фильтр|
-|  Firewall      |[ˈfaɪə.wɔːl]   |   фаервол/Брандмауэр|
 |  Flag      |[flæɡ]   |   Флаг|
 |  Float      |[fləʊt]   |   Число с плавающей точкой|
 |  Flow            | [fləʊ]         | поток               |
@@ -212,7 +211,6 @@
 |  Keystore      |[ˈkiː.stɔːr]   |   Хранилище ключей|
 |  Keyword      |[ˈkiː.wɜːd]   |   Ключевое слово|
 |  Keywording      |[ˈkiː.wɜːd.ɪŋ]   |   Присвоение ключевых слов|
-|  Kickstart      |[ˈkɪk.stɑːt]   |   Запуск (инициировать)|
 |  Kinematics            | [ˌkɪn.əˈmæt.ɪks]                   | кинематика                  |
 |  Knapsack              | [ˈnæp.sæk]                        | рюкзак                      |
 |  Knowledge      |[ˈnɒl.ɪdʒ]   |   Знание|
@@ -281,16 +279,13 @@
 |  Notation      |[nəʊˈteɪ.ʃən]   |   Нотация|
 |  Notepad      |[ˈnəʊt.pæd]   |   Блокнот|
 |  Null      |[nʌl]   |   Пустое значение|
-|  NumPy      |[ˈnʌm.paɪ]   |   NumPy (библиотека Python)|
 |  Numeric      |[njuːˈmer.ɪk]   |   Числовой|
 |  Numerics              | [njuːˈmer.ɪks]                    | нумерика                    |
 |  Object      |[ˈɒb.dʒɪkt]   |   Объект|
 |  Observation      |[ˌɒb.zəˈveɪ.ʃən]   |   Наблюдение|
 |  Octal      |[ˈɒk.təl]   |   Восьмеричный|
-|  Offload      |[ˌɒfˈləʊd]   |   Выгрузить / Снять нагрузку|
 |  Offset                | [ˈɒf.set]                        | смещение                    |
 |  Ontology      |[ɒnˈtɒl.ə.dʒi]   |   Онтология|
-|  Opacity      |[əʊˈpæs.ɪ.ti]   |   Непрозрачность|
 |  Operand      |[ˈɒp.ər.ænd]   |   Операнд|
 |  Operation      |[ˌɒp.əˈreɪ.ʃən]   |   Операция|
 |  Operator      |[ˈɒp.ə.reɪ.tər]   |   Оператор|
@@ -398,7 +393,7 @@
 |  Solver  |   [ˈsɒl.vər]  |   Решатель  |
 |  Sparse  |   [spɑːrs]  |   Разреженный  |
 |  Specification  |   [ˌspek.ɪ.fɪˈkeɪ.ʃən]  |   Спецификация  |
-|  Spiral  |   [ˈspaɪ.rəl]  |   Спираль  |
+|  Spiral  |   [ˈspaɪ.rəl]  |   Спиральный  |
 |  Spline  |   [splʌɪn]  |   Сплайн  |
 |  Stability  |   [stəˈbɪl.ɪ.ti]  |   Стабильность  |
 |  Stabilization         | [stəˌbɪl.ɪˈzeɪ.ʃən]               | стабилизация                |
@@ -420,7 +415,6 @@
 |  System  |   [ˈsɪs.təm]  |   Система  |
 |  Table      |[ˈteɪ.bəl]   |   Таблица|
 |  Tabulation  |   [ˌtæb.jʊˈleɪ.ʃən]  |   Табуляция  |
-|  Tanh      |[tænʃ] or [tæn(h)]   |   Гиперболический тангенс|
 |  Task      |[tɑːsk]   |   Задача|
 |  Tensor  |   [ˈten.sər]  |   Тензор  |
 |  Terminal      |[ˈtɜː.mɪ.nəl]   |   Терминал|
@@ -459,7 +453,7 @@
 |  Universal      |[ˌjuː.nɪˈvɜː.səl]   |   Универсальный|
 |  Unroll      |[ˌʌnˈrəʊl]   |   Разворачивать (unrolling loops)|
 |  Unsupervised  |   [ʌnˈsuː.pə.vaɪzd]  |   Несупервизированный/Неуправляемый  |
-|  Update  |   [ʌpˈdeɪt]  |   Обновление  |
+|  Update  |   [ʌpˈdeɪt]  |   Обновлять  |
 |  Upgradation           | [ˌʌp.ɡreɪˈdeɪ.ʃən]                | обновление                 |
 |  Upgrade      |[ʌpˈɡreɪd]   |   Усовершенствовать / Обновить|
 |  Upload      |[ʌpˈləʊd]   |   Загрузить (на сервер)|
@@ -498,7 +492,6 @@
 |  Whitespace      |[ˈwaɪt.speɪs]   |   Пробельные символы|
 |  Widget      |[ˈwɪdʒ.ɪt]   |   Виджет|
 |  Window      |[ˈwɪn.dəʊ]   |   Окно|
-|  Wireframe      |[ˈwaɪə.freɪm]   |   Каркас (дизайна/интерфейса)|
 |  Wireless      |[ˈwaɪə.ləs]   |   Беспроводной|
 |  Workflow  |   [ˈwɜːk.fləʊ]  |   Рабочий процесс  |
 |  Workspace      |[ˈwɜːk.speɪs]   |   Рабочая область|
