@@ -1,8 +1,9 @@
 ## [Attention Is All You Need](https://arxiv.org/pdf/1706.03762)
+убрать
 
 ### Review1
 
-The article I’m reviewing is called "Attention Is All You Need." It was written by a group of researchers: Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, and Illia Polosukhin. Most of them worked at Google Brain or Google Research, while Aidan did some of his work at the University of Toronto. This paper was presented at a big conference called the 31st Conference on Neural Information Processing Systems (NIPS) in 2017, held in Long Beach, California.
+The article I’m reviewing is called **"Attention Is All You Need."** It was written by a group of researchers: Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, and Illia Polosukhin. Most of them worked at Google Brain or Google Research, while Aidan did some of his work at the University of Toronto. This paper was presented at a big conference called the 31st Conference on Neural Information Processing Systems (NIPS) in 2017, held in Long Beach, California.
 
 The article is about a new model called the "Transformer" that translates languages like English to German or French. Unlike older models that used slow recurrent neural networks (RNNs) or convolutional neural networks (CNNs) to process words one by one, the Transformer uses "attention" to look at all words at once. This makes it faster and better at handling long sentences.
 
